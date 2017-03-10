@@ -1,0 +1,26 @@
+{
+    "name": "tigrov/yii2-language-attributes",
+    "description": "Behavior for language attributes for Yii2",
+    "keywords": ["Behavior", "language", "attributes"],
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/tigrov/yii2-language-attributes"
+    },
+    "authors": [
+        {
+            "name": "Sergei Tigrov",
+            "email": "rrr-r@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tigrov\\": ""
+        }
+    }
+}
